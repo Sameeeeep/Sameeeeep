@@ -1,6 +1,6 @@
 # Hello, I'am Sameep <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-- 🔭 I’m currently doing 100 days of code in Python
+- 🔭 I’m currently doing 100 days of code in Python and learning REACT for Front-End
 - :man_student: I'am currently in my 3rd year of College.
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sameep-hedaoo-35475222b/).
@@ -9,7 +9,6 @@
 
 # My GitHub Stats:
 <p align="left"><img src="https://activity-graph.herokuapp.com/graph?username=SameepHedaoo&theme=react-dark" alt="Activity Graph"></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=SameepHedaoo&show_icons=true&theme=radical" alt="Github readme stats" width="55%"></p>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=SameepHedaoo&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p>
 
 <h3 align="left">Languages and Tools:</h3>
