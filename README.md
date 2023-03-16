@@ -20,6 +20,5 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)   
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameepHedaoo&layout=compact" alt="Kerin" /></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SameepHedaoo.SameepHedaoo)
